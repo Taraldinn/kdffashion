@@ -1,0 +1,13 @@
+{
+    "name" : "Home_Page",
+    "sections" :{
+    "main": {
+        "type": "header"
+
+    }
+
+},
+    "order" : [
+    "main"
+]
+}
