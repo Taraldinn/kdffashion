@@ -2,7 +2,7 @@
     "name" : "Home_Page",
     "sections" :{
     "main": {
-        "type": "header"
+        "type": "nav"
 
     }
 
