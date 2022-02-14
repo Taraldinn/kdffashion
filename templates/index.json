@@ -2,12 +2,11 @@
     "name" : "Home_Page",
     "sections" :{
     "main": {
-        "type": "nav"
 
-    }
+            }
 
 },
     "order" : [
-    "main"
+
 ]
 }

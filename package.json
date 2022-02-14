@@ -1,0 +1,33 @@
+{
+  "name": "kdffashion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programmer-Quazi/kdffashion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programmer-Quazi/kdffashion/issues"
+  },
+  "homepage": "https://github.com/programmer-Quazi/kdffashion#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^9.0.1",
+    "gulp-sass": "^5.1.0",
+    "postcss": "^8.4.6",
+    "sass": "^1.49.7",
+    "scss": "^0.2.4",
+    "tailwindcss": "^3.0.20"
+  },
+  "dependencies": {
+    "gulp-scss": "^1.4.0"
+  }
+}
